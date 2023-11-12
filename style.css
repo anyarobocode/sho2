@@ -1,7 +1,9 @@
-.body {
+
 .body {
     background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-D:\Нова папка\sho2>git commit -m"Add style.css"
-D:\Нова папка\sho2>git add style.css
-D:\Нова папка\sho2>git commit -m"Add style.css"
+
+
